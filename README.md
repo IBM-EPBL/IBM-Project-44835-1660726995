@@ -1,4 +1,4 @@
-Code for assignment
+Code for IBM assignment
 
 float x,y,z,temp;
 void setup()
