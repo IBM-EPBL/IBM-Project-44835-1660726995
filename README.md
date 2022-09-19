@@ -1,5 +1,3 @@
-
-
 float x,y,z,temp;
 void setup()
 {
