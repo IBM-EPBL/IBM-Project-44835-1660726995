@@ -1,4 +1,3 @@
-Code of the assignment
 
 
 float x,y,z,temp;
@@ -52,4 +51,3 @@ void loop()
     digitalWrite(6, LOW);
   }
 }
-
